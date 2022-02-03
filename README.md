@@ -1,4 +1,5 @@
 # Boops Boops Docker Container
+### Author: Ken Gannon (@yogehi)
 
 Boops Boops is a re-skinned Drozer application which was developed for the Austin Pwn2Own 2021 competition.
 
